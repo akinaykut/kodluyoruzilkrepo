@@ -24,4 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için. Lütfen önce neyi 
 
 ## License
 
-[MIT](https://mit.com)
+[MIT](https://www.mit.edu/~amini/LICENSE.md)
